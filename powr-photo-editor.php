@@ -6,7 +6,7 @@
     /*
     Plugin Name: POWr Photo Editor
     Plugin URI: http://www.powr.io
-    Description: Edit and animate a photo or image right in your page Add the widget to your theme, or create a Photo Editor on ANY page or post by using the shortcode [powr-photo-editor]. Then, simply visit your site and click the settings icon to customize your Photo Editor right in the page. Many more plugins & tutorials at POWr.io.
+    Description: Edit, filter, and animate photos and images in seconds! Add the widget to your theme, or create a Photo Editor on ANY page or post by using the shortcode [powr-photo-editor]. Then, simply visit your site and click the settings icon to customize your Photo Editor right in the page. Many more plugins & tutorials at POWr.io.
     Author: POWr.io
     Version: 1.0
     Author URI: http://www.powr.io
